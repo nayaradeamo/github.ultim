@@ -22,4 +22,19 @@
     cursor: pointer;
   }
   .button1 {background-color: rgb(23, 20, 70);}
+
+  .gray-box {
+    background-color: gray;
+    color: white;
+    padding: 40px;
   
+  }
+
+.gray-box img {
+  padding-left: 20px;
+}
+
+div {
+  margin: 6 auto;
+  text-align: center;
+}
